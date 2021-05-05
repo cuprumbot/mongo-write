@@ -1,0 +1,22 @@
+{
+  "name": "mongo-write",
+  "version": "1.0.0",
+  "description": "demo: writing many times to mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuprumbot/mongo-write.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuprumbot/mongo-write/issues"
+  },
+  "homepage": "https://github.com/cuprumbot/mongo-write#readme",
+  "dependencies": {
+    "mongodb": "^3.6.6"
+  }
+}
